@@ -19,14 +19,6 @@ It’s a simple, responsive card with a QR code and supporting text. A perfect w
 - Mobile-first workflow
 - [Frontend Mentor](https://www.frontendmentor.io/) challenge starter files
 
-## 📸 Screenshot
-
-| Desktop                                    | Mobile                                   |
-| ------------------------------------------ | ---------------------------------------- |
-| ![Desktop View](./screenshots/desktop.png) | ![Mobile View](./screenshots/mobile.png) |
-
-_(You can add your own screenshots by capturing them and saving into `./screenshots` folder)_
-
 ## 💡 What I Learned
 
 - How to use **flexbox** to center elements vertically and horizontally
