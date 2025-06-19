@@ -34,8 +34,8 @@ It’s a simple, responsive card with a QR code and supporting text. A perfect w
 
 ## 🚀 Author
 
-- GitHub: [Furkan Mert Kübel](https://github.com/codewithillusion)
-- Frontend Mentor: [@codewithillusion](https://www.frontendmentor.io/profile/codewithillusion)
+- GitHub: [Furkan Mert Kübel](https://github.com/quetrea)
+- Frontend Mentor: [@quetrea](https://www.frontendmentor.io/profile/quetrea)
 - LinkedIn: [Furkan Mert Kübel](https://www.linkedin.com/in/codewithillusion/)
 
 ## ✅ Status
